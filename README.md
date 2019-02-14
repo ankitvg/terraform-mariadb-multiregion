@@ -2,6 +2,23 @@
 
 This Terraform template makes it easy to launch a High-Availability MariaDB cluster.
 
+## Install terraform on linux machine
+
+### Linux Machine
+
+```
+wget https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_linux_amd64.zip
+unzip terraform_0.9.8_linux_amd64.zip
+sudo mv terraform/ /usr/local/bin/
+terraform --version
+```
+
+### Mac 
+
+```
+brew install terraform
+```
+or download appropriate package from [here](https://www.terraform.io/downloads.html) and use the installer.
 
 ## Usage
 
