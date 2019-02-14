@@ -2,7 +2,7 @@
 
 This Terraform template makes it easy to launch a High-Availability MariaDB cluster.
 
-## Install terraform on linux machine
+## Install terraform
 
 ### Linux Machine
 
